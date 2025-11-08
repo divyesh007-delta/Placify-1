@@ -3,7 +3,6 @@ flask_cors
 flask_jwt_extended
 pymongo
 python-dotenv
-bson
 datetime
 uuid
 pandas
@@ -14,6 +13,7 @@ seaborn
 wordcloud 
 werkzeug
 redis
+
 
 
 
