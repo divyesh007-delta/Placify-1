@@ -6,10 +6,7 @@ python-dotenv
 bson
 datetime
 uuid
-base64
 matplotlib.pyplot 
-collections 
-re
 pandas
 numpy
 sklearn
@@ -19,7 +16,7 @@ wordcloud
 werkzeug
 smtplib
 redis
-traceback
-random
-json
-string
+
+
+
+
