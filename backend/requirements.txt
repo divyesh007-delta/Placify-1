@@ -6,16 +6,16 @@ python-dotenv
 bson
 datetime
 uuid
-matplotlib.pyplot 
 pandas
 numpy
-sklearn
+scikit-learn
 matplotlib
 seaborn
 wordcloud 
 werkzeug
 smtplib
 redis
+
 
 
 
